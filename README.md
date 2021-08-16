@@ -9,7 +9,7 @@ Using this SDK, you will be able to reflect professional.app API queries directl
 Built with and [eons](https://github.com/eons-dev/lib_eons) using the [eons build system](https://github.com/eons-dev/bin_ebbs)
 
 ## Installation
-`pip install professional`
+`pip install professionals`
 
 ## Usage
 
