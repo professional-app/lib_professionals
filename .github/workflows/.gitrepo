@@ -1,0 +1,12 @@
+; DO NOT EDIT (unless you know what you are doing)
+;
+; This subdirectory is a git "subrepo", and this file is maintained by the
+; git-subrepo command. See https://github.com/git-commands/git-subrepo#readme
+;
+[subrepo]
+	remote = https://github.com/eons-dev/part_python-workflows.git
+	branch = main
+	commit = 75c5a83141fa89006bf7526256c868b4d30d79fc
+	parent = 9871f9040100fc2f48bd7fae57d3921f9cb3c626
+	method = merge
+	cmdver = 0.4.3
